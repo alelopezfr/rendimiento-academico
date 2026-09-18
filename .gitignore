@@ -183,4 +183,3 @@ cython_debug/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
-outputs/resultados/*.png
