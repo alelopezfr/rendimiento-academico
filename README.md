@@ -15,4 +15,4 @@ Este proyecto realiza un análisis exploratorio de datos sobre los resultados ac
 ## Instalación
 1. Clonar el repositorio:
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone <https://github.com/alelopezfr/rendimiento-academico/settings>cd rendimiento-academico
