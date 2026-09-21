@@ -55,9 +55,7 @@ Se evaluaron las calificaciones de los estudiantes considerando distintas variab
 3. Influencia del nivel educativo de los padres: Análisis del desempeño general según el grado académico máximo de los padres.
 4. Distribución por nivel de rendimiento: Clasificación de los alumnos en categorías de rendimiento académico (*Bajo*, *Medio* y *Alto*).
 
----
-
-## 📈 Resultados y Conclusiones
+## Resultados y Conclusiones
 
 * Áreas académicas: Los estudiantes obtuvieron el promedio más alto en Lectura (**69.17**) y Escritura (**68.05**), mientras que Matemáticas presentó el promedio más bajo (**66.09**).
 * Cursos de preparación: Completar el curso de preparación tiene un impacto positivo notable, elevando el promedio general a **72.67**, en comparación con **65.04** de quienes no lo realizaron (+7.63 puntos).
